@@ -29,6 +29,6 @@ Basic Grunt setup for quick-start projects. This is an ongoing repo, so changes 
 
 ### Version 1.0 ###
 * Kicked-off with tasks structure based on [Chris Coyier's Grunt Boilerplate](https://github.com/chriscoyier/My-Grunt-Boilerplate).
-* Based on Grunt Boilerplate base model initially developed for Faren&deg; Agency. 
+* Based on Grunt Boilerplate base model initially developed for [Faren&deg; Agency](http://www.farenagency.com). 
 * Dropped default old IE support from original.
 * Running bright and sparkling jQuery 2.1.3 by default.
